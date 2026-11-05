@@ -1,0 +1,3 @@
+[submodule "chislinksdk"]
+	path = chislinksdk
+	url = https://github.com/ChisBread/ChisLink
